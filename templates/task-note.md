@@ -1,34 +1,23 @@
-# Task Note: <Task Title>
+# Task: Task Name
 
-## Status: Not Started / In Progress / Completed
-## Created: YYYY-MM-DD
-## Due: YYYY-MM-DD
-
----
+## Status
+- [ ] Not started
+- [ ] In progress
+- [ ] Completed
 
 ## Description
 
-<Describe the task>
-
-## Related Handbook Section
-- <Link to relevant Handbook section>
-
-## Notes / 笔记
-
-- 
-
-## Sub-tasks
-
-- [ ] Sub-task 1
-- [ ] Sub-task 2
-- [ ] Sub-task 3
+-
 
 ## Resources
 
-- 
+-
 
-## Log
+## Progress Log
 
-| Date | Update |
-|------|--------|
-| YYYY-MM-DD | |
+### YYYY-MM-DD
+-
+
+## Notes
+
+-
